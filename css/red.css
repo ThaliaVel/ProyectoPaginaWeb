@@ -1,0 +1,16 @@
+body{
+    background: url("../img/red.webp");
+    background-attachment: fixed;
+}
+
+#logo{
+    background: #ae3535;
+}
+
+#menu ul li:hover{
+    background: #ae3535;
+}
+
+.button-more{
+    background: #ae3535
+}

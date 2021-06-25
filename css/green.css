@@ -1,0 +1,16 @@
+body{
+    background: url("../img/hojas.jpeg");
+    background-attachment: fixed;
+}
+
+#logo{
+    background: #599d76;
+}
+
+#menu ul li:hover{
+    background: #599d76;
+}
+
+.button-more{
+    background: #599d76;
+}
